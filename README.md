@@ -3,8 +3,8 @@
 <img hight="300" width="380" align="right" alt="GIF" src="https://github.com/MohamedCuerci/MohamedCuerci/blob/main/assets/jujutsu-kaisen.gif">  
 
 <p>
-  koe eu me chamo Lucas Cuerci, tenho quase 2 anos de experiência. 
-  Atualmente sou um Desenvolvedor Back-end e moro no :brazil: RJ - Brasil, atualmente estou focado em web3 mas sem deixar meu querido Ruby on rails de lado. 
+  koe eu me chamo Lucas Cuerci, tenho quase 2 anos de experiência como desenvolvimento de software. 
+  Atualmente sou um Desenvolvedor Back-end Júnior e moro no RJ - Brasil :brazil:, atualmente estou focado em web3 mas sem deixar meu querido Ruby on rails de lado. 
 </p>
 
 - 🔭 Hoje trabalho com Back-end 
