@@ -1,16 +1,21 @@
-### Koe lek, pode me chamar de Cuerci 🤙
+# Koe lek, pode me chamar de Cuerci 🤙
 
-Here are some ideas to get you started:
+<img hight="300" width="380" align="right" alt="GIF" src="https://github.com/MohamedCuerci/MohamedCuerci/blob/main/assets/jujutsu-kaisen.gif">  
 
-- 🔭 Hoje trabalho com Back-end
-- 🌱 Estudando Solidity | Blockchain
-- ⚡ Fun fact: Atualmente consigo fazer 18 barras 🏋️‍♂️🏋️‍♂️🏋️‍♂️
+<p>
+  koe eu me chamo Lucas Cuerci, tenho quase 2 anos de experiência. 
+  Atualmente sou um Desenvolvedor Back-end e moro no :brazil: RJ - Brasil, atualmente estou focado em web3 mas sem deixar meu querido Ruby on rails de lado. 
+</p>
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/MohamedCuerci/MohamedCuerci/blob/main/assets/jujutsu-kaisen.gif">
+- 🔭 Hoje trabalho com Back-end 
+- 🌱 Estudando Solidity | Blockchain | RoR 
+- ⚡ Fun fact: Atualmente consigo fazer 18 barras 🏋️‍♂️:muscle:
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedcuerci&layout=compact&langs_count=7&theme=dark"/>
+<hr>
 
-### Tecnologias e Linguagens
+<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedcuerci&layout=compact&langs_count=7&theme=dark"/>
+
+### Tecnologias e Linguagens :man_technologist:
 
 <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank">
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" target="_blank">
@@ -45,7 +50,7 @@ Here are some ideas to get you started:
   <!--![Snake animation](https://github.com/MohamedCuerci/MohamedCuerci/blob/output/github-contribution-grid-snake.svg)-->
 </div>
 
-### Entre em cantato
+### Entre em contato :speech_balloon:
 
 <div>
   <a href="https://www.linkedin.com/in/lucas-cuerci/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -53,6 +58,8 @@ Here are some ideas to get you started:
   <a href = "mailto:lucas.cuerci25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/MohamedCuerci/MohamedCuerci/blob/main/assets/gojo-satoru-jujutsu-kaisen.gif">
+<hr>
 
-<img src="https://tenor.com/view/sukuna-gif-20534893" target="_blank">
+<div align="center">
+  <img hight="320" width="450" align="center" alt="GIF" src="https://github.com/MohamedCuerci/MohamedCuerci/blob/main/assets/gojo-satoru-jujutsu-kaisen.gif">
+</div>
