@@ -1,16 +1,17 @@
 # Koe lek, pode me chamar de Cuerci 🤙
 
-<img hight="300" width="380" align="right" alt="GIF" src="https://github.com/MohamedCuerci/MohamedCuerci/blob/main/assets/jujutsu-kaisen.gif">  
+<img height="" width="400" align="right" alt="GIF" src="https://github.com/MohamedCuerci/MohamedCuerci/blob/main/assets/jujutsu-kaisen.gif">  
 
 <p>
   koe eu me chamo Lucas Cuerci, tenho quase 2 anos de experiência como desenvolvimento de software. 
-  Atualmente sou um Desenvolvedor Back-end Júnior e moro no RJ - Brasil :brazil:, atualmente estou focado em web3 mas sem deixar meu querido Ruby on rails de lado. 
+  Atualmente sou um Desenvolvedor Back-end Júnior e moro no RJ - Brasil :brazil:, no momento, estou focado em web3 mas sem deixar meu querido Ruby on rails de lado. 
 </p>
 
 - 🔭 Hoje trabalho com Back-end 
 - 🌱 Estudando Solidity | Blockchain | RoR 
 - ⚡ Fun fact: Atualmente consigo fazer 18 barras 🏋️‍♂️:muscle:
 
+<br>
 <hr>
 
 <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedcuerci&layout=compact&langs_count=7&theme=dark"/>
@@ -61,5 +62,5 @@
 <hr>
 
 <div align="center">
-  <img hight="320" width="450" align="center" alt="GIF" src="https://github.com/MohamedCuerci/MohamedCuerci/blob/main/assets/gojo-satoru-jujutsu-kaisen.gif">
+  <img hight="280" width="400" align="center" alt="GIF" src="https://github.com/MohamedCuerci/MohamedCuerci/blob/main/assets/gojo-satoru-jujutsu-kaisen.gif">
 </div>
