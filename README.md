@@ -4,11 +4,11 @@
 
 <p>
   koe eu me chamo Lucas Cuerci, tenho quase 2 anos de experiência como desenvolvimento de software. 
-  Atualmente sou um Desenvolvedor Back-end Júnior e moro no RJ - Brasil :brazil:, no momento, estou focado em web3 mas sem deixar meu querido Ruby on rails de lado. 
+  Atualmente sou um Desenvolvedor Back-end Júnior e moro no RJ - Brasil :brazil:, no momento, estou focado em desenvolvimento web com meu querido Ruby on rails. 
 </p>
 
 - 🔭 Hoje trabalho com Back-end 
-- 🌱 Estudando Solidity | Blockchain | RoR 
+- 🌱 Estudando RoR | javascript | react 
 - ⚡ Fun fact: Atualmente consigo fazer 18 barras 🏋️‍♂️:muscle:
 
 <br>
